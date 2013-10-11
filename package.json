@@ -1,0 +1,17 @@
+{
+  "name": "otp-word-list",
+  "description": "One-Time Password Word List",
+  "keywords": [
+    "otp",
+    "password",
+    "word",
+    "list"
+  ],
+  "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/andreineculau/otp-word-list.git"
+  },
+  "license": "Unlicense",
+  "main": "otp.json"
+}
